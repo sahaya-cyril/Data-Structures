@@ -134,8 +134,8 @@ main()
 			break;
 		case 5:
 			display_queue();
-      break;
-    case 6:
+      			break;
+    		case 6:
         	exit(0);
         	break;
 		default:
